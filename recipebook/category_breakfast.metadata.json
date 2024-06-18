@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"cb00cb3ff5e64fd2a66e26cfc6da0915","collectionName":"category_breakfast","type":"collection"}
